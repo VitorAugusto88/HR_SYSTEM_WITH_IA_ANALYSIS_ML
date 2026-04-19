@@ -122,7 +122,7 @@ TECH_NOVA_IA_SYSTEM/
 ## Pré-requisitos
 
 - Python 3.10 ou superior
-- Chave de API da Anthropic — obtenha gratuitamente em [console.anthropic.com](https://console.anthropic.com)
+- Chave de API da Anthropic — obtenha em [console.anthropic.com](https://console.anthropic.com)
 
 ---
 
